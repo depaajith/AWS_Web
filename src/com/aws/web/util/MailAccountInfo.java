@@ -22,6 +22,7 @@ public class MailAccountInfo {
 	public static final String M_HOST = "";
 	public static String username = "";
 	public static String pwd = "";
+	public static String testclone ="";
 
 	public static class MailAuthenticator extends Authenticator {
 		@Override
